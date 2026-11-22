@@ -1,0 +1,18 @@
+{
+  "name": "공정가공지원팀 장비 대시보드",
+  "short_name": "장비대시보드",
+  "description": "실시간 장비 상태 및 이력 모니터링 시스템",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#1e293b",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3043/3043888.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
